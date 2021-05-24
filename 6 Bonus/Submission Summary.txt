@@ -1,0 +1,10 @@
+Name - Adittya Soukarjya Saha
+ID - 21166056
+
+--> Did an extra course on AWS at Coursera
+
+Course Name: Building Modern Python Applications on AWS
+URL: https://coursera.org/share/24dd6ec82fbca55724b55bb0fb0f25de
+
+--> Extra seminar attended
+The HPC-AI Advisory Council webinar on 17th March. 2021
