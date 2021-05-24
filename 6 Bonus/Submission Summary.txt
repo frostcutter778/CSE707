@@ -3,7 +3,8 @@ ID - 21166056
 
 --> Did an extra course on AWS at Coursera
 
-Course Name: Building Modern Python Applications on AWS
+Course Name: Building Modern Python Applications on AWS  
+Passed this course by achieving 100%.
 URL: https://coursera.org/share/24dd6ec82fbca55724b55bb0fb0f25de
 
 --> Extra seminar attended
